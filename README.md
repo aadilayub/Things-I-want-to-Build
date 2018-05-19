@@ -9,3 +9,5 @@
 - Minimal Todoist widget for Android
 - Morning Pages app/website
 - Equivalent of http://effectivethesis.com for Philippine Universities
+- Redesigned front-end for [Effective Thesis](http://effectivethesis.com) website
+- [Interactive data visualization of 2017 Pakistan Census](https://brandnk.github.io/Front-End-Web-Developer-Assessment/)
