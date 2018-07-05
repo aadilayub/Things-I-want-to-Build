@@ -15,4 +15,4 @@
 - Todoist Kanban App
 - Todoist Pomodoro timer
 - Forest linux/elementary app
-
+- Native, material designed Mastodon android app (like Flamingo for Twitter or Slide for Reddit)
