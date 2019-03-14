@@ -14,6 +14,7 @@
 - Personal android launcher designed around my daily tasks and agenda
 - ~~Todoist Kanban App~~ need fulfilled by [kanban.ist](http://kanban.ist)
 - Todoist Pomodoro timer
-- Forest linux/elementary app
+- ~~Forest linux/elementary app~~ no need. There isn't even a web version. Why duplicate
+- Port Pamela Fox's Unhooked extensions to Firefox
 - Native office suite for elementary OS
 - ~~Native WebTorrent client for elementary OS~~ no need. electron version works fine
