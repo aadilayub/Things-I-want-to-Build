@@ -18,3 +18,4 @@
 - Port Pamela Fox's Unhooked extensions to Firefox
 - Native office suite for elementary OS
 - ~~Native WebTorrent client for elementary OS~~ no need. electron version works fine
+- Create Mastodonm mirror for Imran Khan's Twitter account
