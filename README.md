@@ -1,7 +1,6 @@
 # Things I Want To Build
 
 - ~~Personal website based on hugo lodi theme~~
-- Personal chatbot
 - Bespoke personal website
 - Startup School landing page
 - Examify android app
